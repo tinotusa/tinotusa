@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi, I'm Tino.
+
+## Self taught aspiring mobile developer.
+- 📱 Currently working on a [Weather app](github.com/tinotusa/weather)
+
+## Languages & Frameworks:
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"> Swift
+- SwiftUI
+
+## Working knowledge of:
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"> Python
 
 <!--
 **tinotusa/tinotusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
