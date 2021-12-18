@@ -1,7 +1,7 @@
 ## Hi, I'm Tino.
 
 ## Self taught aspiring mobile developer.
-- 📱 Currently working on a [Weather app](github.com/tinotusa/weather)
+- 📱 Currently working on a [Weather app](https://github.com/tinotusa/WeatherApp)
 
 ## Languages & Frameworks:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"> Swift
