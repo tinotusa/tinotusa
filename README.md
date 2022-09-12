@@ -1,7 +1,8 @@
 ## Hi, I'm Tino.
 
 ## Self taught aspiring mobile developer.
-- 📱 Currently working on a [Chat app](https://github.com/tinotusa/ChatApp)
+- 📱 Currently working on a [Pokedex app](https://github.com/tinotusa/Pokedex)
+- [Chat app](https://github.com/tinotusa/ChatApp)
 - [Weather app](https://github.com/tinotusa/WeatherApp)
 
 ## Languages & Frameworks:
