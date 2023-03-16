@@ -1,7 +1,8 @@
 ## Hi, I'm Tino.
 
 ## Self taught aspiring mobile developer.
-- 📱 Currently working on [TrivaiApp](https://github.com/tinotusa/TriviaApp)
+- 📱 Currently working on [IssueTracker](https://github.com/tinotusa/IssueTracker)
+- [TrivaiApp](https://github.com/tinotusa/TriviaApp)
 - [Pokedex app](https://github.com/tinotusa/PokedexRemake)
 - [Chat app](https://github.com/tinotusa/ChatApp)
 - [Weather app](https://github.com/tinotusa/WeatherApp)
